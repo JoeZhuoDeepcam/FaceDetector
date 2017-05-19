@@ -1,0 +1,11 @@
+﻿  Source.cpp
+c:\users\bret nestor\documents\visual studio 2015\projects\facedetector\facedetector\source.cpp(135): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\bret nestor\documents\visual studio 2015\projects\facedetector\facedetector\source.cpp(216): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\bret nestor\documents\visual studio 2015\projects\facedetector\facedetector\source.cpp(217): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\bret nestor\documents\visual studio 2015\projects\facedetector\facedetector\source.cpp(221): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\bret nestor\documents\visual studio 2015\projects\facedetector\facedetector\source.cpp(222): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\bret nestor\documents\visual studio 2015\projects\facedetector\facedetector\source.cpp(248): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\bret nestor\documents\visual studio 2015\projects\facedetector\facedetector\source.cpp(249): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\bret nestor\documents\visual studio 2015\projects\facedetector\facedetector\source.cpp(64): warning C4101: 'facePos': unreferenced local variable
+  FaceDetector.vcxproj -> C:\Users\Bret Nestor\Documents\Visual Studio 2015\Projects\FaceDetector\x64\Debug\FaceDetector.exe
+  FaceDetector.vcxproj -> C:\Users\Bret Nestor\Documents\Visual Studio 2015\Projects\FaceDetector\x64\Debug\FaceDetector.pdb (Full PDB)
