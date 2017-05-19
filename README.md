@@ -1,0 +1,2 @@
+# FaceTracker
+Python and C++ implementations of openCV face tracking capabilities coupled with arduino code for moving the camera to follow the face. Kalman Filters included. Inspired by http://docs.opencv.org/2.4/doc/tutorials/objdetect/cascade_classifier/cascade_classifier.html (cpp), http://opencvexamples.blogspot.com/2014/01/kalman-filter-implementation-tracking.html (cpp Kalman Filter), and http://stackoverflow.com/questions/43124445/face-tracking-using-opencv-arduino-and-python (python)
